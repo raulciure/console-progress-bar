@@ -1,0 +1,1 @@
+gcc -finput-charset=UTF-8 -fexec-charset=UTF-8 .\main.c .\Progress-Bar.c -ggdb -o main.exe

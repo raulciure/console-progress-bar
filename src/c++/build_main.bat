@@ -1,0 +1,1 @@
+g++ -finput-charset=UTF-8 -fexec-charset=UTF-8 .\main.cpp .\Progress-Bar.cpp -ggdb -o main.exe
